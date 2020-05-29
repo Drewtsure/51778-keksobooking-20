@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ваня Ньюман](https://up.htmlacademy.ru/javascript/20/user/51778).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Захарченко](https://htmlacademy.ru/profile/drewtsure).
 
 ---
 
